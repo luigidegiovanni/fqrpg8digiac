@@ -1,2 +1,1 @@
-# fqrpg8digiac
-## Experiments with the routing rule by Di Giacomo et al. 2020
+# Experiments with the routing rule by Di Giacomo et al. 2020
